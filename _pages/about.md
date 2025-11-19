@@ -14,6 +14,6 @@ Most of my [work](https://research) uses Canadian administrative microdata to st
 **employer concentration**, and the **distributional effects of macroeconomic shocks**,  
 with a focus on the Great Recession and public-sector dynamics. 
 
-You can find my CV [here](../files/Resume_Guy_Djolaud). Thanks for your interest!
+You can find my CV [here](../files/Resume_Guy_Djolaud.pdf). Thanks for your interest!
 <br/>
 <br/>

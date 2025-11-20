@@ -1,6 +1,6 @@
 ---
 title: "Paper Title Number 3"
-collection: publications
+collection: Research
 category: workingpapers
 permalink: /publication/2015-10-01-paper-title-number-3
 date: 2015-10-01

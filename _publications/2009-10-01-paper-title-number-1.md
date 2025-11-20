@@ -8,3 +8,13 @@ slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: '/files/JMP_Labour_Market_Power.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 ---
+This paper provides the first time-series analysis of labour market concentration in Canada, 
+complementing prior research on the U.S. and other countries. It shows that national concentration 
+gradually declined from 2001 to 2019, while local concentration experienced a temporary rise of 14% 
+during the Great Recession. Decomposition analysis reveals that the long-run decline reflects two 
+offsetting forces: increased within-industry competition, which reduced concentration, and wage-bill 
+shifts toward more concentrated sectors, which partially offset these gains. During the Great 
+Recession, the pattern reverses at the local level: 68% of the increase in local concentration 
+was driven by sectoral reallocation toward more concentrated industries. 
+
+-----

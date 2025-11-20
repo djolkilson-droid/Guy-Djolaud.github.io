@@ -3,15 +3,9 @@ title: "Labour Market Power in Canada"
 collection: Research
 category: workingpapers
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2025-10-30
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: '/files/JMP_Labour_Market_Power.pdf'
 --- 
-<br/> 
-
-<details><summary>Abstract:</summary>
-<br/>
-  
 This paper provides the first time-series analysis of labour market concentration in Canada, 
 complementing prior research on the U.S. and other countries. It shows that national concentration 
 gradually declined from 2001 to 2019, while local concentration experienced a temporary rise of 14% 

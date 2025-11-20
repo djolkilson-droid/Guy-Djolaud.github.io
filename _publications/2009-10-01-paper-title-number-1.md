@@ -6,7 +6,6 @@ permalink: /publication/2009-10-01-paper-title-number-1
 date: 2025-10-30
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: '/files/JMP_Labour_Market_Power.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 ---
 This paper provides the first time-series analysis of labour market concentration in Canada, 
 complementing prior research on the U.S. and other countries. It shows that national concentration 
@@ -17,4 +16,3 @@ shifts toward more concentrated sectors, which partially offset these gains. Dur
 Recession, the pattern reverses at the local level: 68% of the increase in local concentration 
 was driven by sectoral reallocation toward more concentrated industries. 
 
------

@@ -1,6 +1,6 @@
 ---
 title: "The Trajectory of Immigrants’ Exposure to Labour Market Power in Canada"
-collection: Research
+collection: publications
 category: workingpapers
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2025-10-01

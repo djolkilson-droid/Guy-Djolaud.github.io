@@ -3,10 +3,9 @@ title: "The Trajectory of Immigrants’ Exposure to Labour Market Power in Canad
 collection: Research
 category: Working Papers
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2025-10-01
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: '/files/Immigrant_LMP_Trajectories.pdf'
+paperurl: '/files/2025_Diallo_Guy_Labor_concentration_of_Foreign_born_in_Canada_.pdf'
 ---
 with [Yaya Diallo](https://myayadiallo.com/)  
 <br/> 

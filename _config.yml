@@ -81,12 +81,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  manuscripts:
+  workingpapers:
     title: 'Working Papers'    
   conferences:
     title: 'Applied Policy Work' 
     pre-doc:
-    title: 'Pre-doctoral'
+    title: 'Pre-doctoral Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

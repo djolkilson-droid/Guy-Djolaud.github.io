@@ -8,6 +8,7 @@ slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: '/files/Labour_Market_Power_JMP_Guy_Djolaud (1).pdf'
 --- 
 
+
 This paper provides the first time-series analysis of labour market concentration in Canada, 
 complementing prior research on the U.S. and other countries. It shows that national concentration 
 gradually declined from 2001 to 2019, while local concentration experienced a temporary rise of 14% 

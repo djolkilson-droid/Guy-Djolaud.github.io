@@ -1,6 +1,6 @@
 ---
 title: "Labour Market Power in Canada"
-collection: publication
+collection: publications
 category: workingpapers 
 date: 2025-10-30 
 excerpt: ''

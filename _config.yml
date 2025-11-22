@@ -80,13 +80,14 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  publications:
+publication_category: 
+  books:
+    title: 'Pre-doctoral Papers'
+  manuscripts:
     title: 'Working Papers'    
   conferences:
-    title: 'Applied Policy Work' 
-    pre-doc:
-    title: 'Pre-doctoral Papers'
+    title: 'Applied Policy Work'
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

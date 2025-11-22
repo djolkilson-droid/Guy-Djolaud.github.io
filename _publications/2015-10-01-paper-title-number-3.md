@@ -1,7 +1,7 @@
 ---
 title: "Country Climate Diagnostic Report – Cote d’Ivoire (pages 209–216)"
 collection: publications
-category: conference
+category: workingpapers
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Climate finance diagnostics, fiscal policy modeling and green
 growth scenario analysis'

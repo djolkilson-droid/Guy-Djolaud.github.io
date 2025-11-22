@@ -1,7 +1,7 @@
 ---
 title: "Labour Market Power in Canada"
 collection: publications
-category: manuscripts 
+category: workingpapers 
 date: 2025-10-30 
 excerpt: ''
 permalink: /publication/2009-10-01-paper-title-number-1 

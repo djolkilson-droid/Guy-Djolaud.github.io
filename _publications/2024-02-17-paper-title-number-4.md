@@ -1,7 +1,7 @@
 ---
 title: "Estimating Non Accelerating Inflation Rate of Unemployment (NAIRU)" 
 collection: publications
-category: conferences
+category: pre-doc
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2024-02-17
